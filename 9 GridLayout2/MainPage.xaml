@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_9_GridLayout2.MainPage">
+
+    <Grid VerticalOptions="Center"
+              HorizontalOptions="Center"
+              Margin="30"
+              RowSpacing="10"
+              ColumnSpacing="10">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1" ColumnSpacing="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Rectangle Grid.Row="0"
+                   Grid.Column="0"
+                   VerticalOptions="Fill"
+                   HorizontalOptions="Fill"
+                   Background="Red"/>
+            <Rectangle Grid.Row="0"
+                  Grid.Column="1"
+                  VerticalOptions="Fill"
+                  HorizontalOptions="Fill"
+                  Background="Green"/>
+            <Rectangle Grid.Row="0"
+                  Grid.Column="2"
+                  VerticalOptions="Fill"
+                  HorizontalOptions="Fill"
+                  Background="Blue"/>
+
+        </Grid>
+
+        <Rectangle Grid.Row="0"
+                   Grid.Column="0"
+                   VerticalOptions="Fill"
+                   HorizontalOptions="Fill"
+                   Background="Yellow"/>
+
+        <Rectangle Grid.Row="2"
+                   Grid.Column="0"
+                   VerticalOptions="Fill"
+                   HorizontalOptions="Fill"
+                   Background="Cyan"/>
+    </Grid>
+
+</ContentPage>

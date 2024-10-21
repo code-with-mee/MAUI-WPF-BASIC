@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_6_HorizontalStackLayout.MainPage">
+
+    <HorizontalStackLayout VerticalOptions="Center"
+                           HorizontalOptions="Center"
+                           Margin="30"
+                           Spacing="10">
+        <BoxView WidthRequest="100"
+                 HeightRequest="100"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 BackgroundColor="Yellow"/>
+        <BoxView WidthRequest="100"
+                 HeightRequest="100"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 BackgroundColor="Red"/>
+        <BoxView WidthRequest="100"
+                 HeightRequest="100"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 BackgroundColor="Green"/>
+    </HorizontalStackLayout>
+
+</ContentPage>

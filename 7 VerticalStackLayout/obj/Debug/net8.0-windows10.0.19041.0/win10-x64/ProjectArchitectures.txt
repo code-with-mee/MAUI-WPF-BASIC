@@ -1,0 +1,1 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\7 VerticalStackLayout\7 VerticalStackLayout.csproj;x64

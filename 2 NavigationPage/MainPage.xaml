@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_2_NavigationPage.MainPage">
+
+    <StackLayout>
+        <Label
+            Text="Page1"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            />
+
+        <BoxView
+            WidthRequest="600"
+            HeightRequest="600"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            BackgroundColor="Blue">
+            
+        </BoxView>
+
+        <Button
+            x:Name="btnNext"
+            Text="Next" 
+            Clicked="OnBtnNext_Click"
+            VerticalOptions="Center"
+            HorizontalOptions="Center" />
+    </StackLayout>
+</ContentPage>
