@@ -1,0 +1,18 @@
+﻿<Window x:Class="_18_TextBlock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_18_TextBlock"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="tb"
+                   Margin="50"
+                   TextWrapping="Wrap"
+                   FontSize="16"
+                   >
+           The following graphic shows an example of the three states of a repeat button control, Default, PointerFocused, and Pressed. The first button shows the default state of the RepeatButton. The second shows how the appearance of the button changes when the mouse pointer hovers over the button, giving it focus. The last button shows the appearance of the RepeatButton when the user presses the mouse button over the control.
+        </TextBlock>
+    </Grid>
+</Window>

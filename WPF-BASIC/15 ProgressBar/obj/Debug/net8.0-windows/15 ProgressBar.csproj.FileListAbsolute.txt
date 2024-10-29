@@ -1,0 +1,20 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\bin\Debug\net8.0-windows\15 ProgressBar.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\bin\Debug\net8.0-windows\15 ProgressBar.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\bin\Debug\net8.0-windows\15 ProgressBar.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\bin\Debug\net8.0-windows\15 ProgressBar.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\bin\Debug\net8.0-windows\15 ProgressBar.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\refint\15 ProgressBar.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\15 ProgressBar.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\15 ProgressBar\obj\Debug\net8.0-windows\ref\15 ProgressBar.dll

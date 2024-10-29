@@ -1,0 +1,20 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\bin\Debug\net8.0-windows\16 RadioButton.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\bin\Debug\net8.0-windows\16 RadioButton.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\bin\Debug\net8.0-windows\16 RadioButton.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\bin\Debug\net8.0-windows\16 RadioButton.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\bin\Debug\net8.0-windows\16 RadioButton.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\refint\16 RadioButton.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\16 RadioButton.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\16 RadioButton\obj\Debug\net8.0-windows\ref\16 RadioButton.dll

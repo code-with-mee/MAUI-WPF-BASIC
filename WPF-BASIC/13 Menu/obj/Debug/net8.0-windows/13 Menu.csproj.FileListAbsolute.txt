@@ -1,0 +1,20 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\bin\Debug\net8.0-windows\13 Menu.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\bin\Debug\net8.0-windows\13 Menu.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\bin\Debug\net8.0-windows\13 Menu.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\bin\Debug\net8.0-windows\13 Menu.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\bin\Debug\net8.0-windows\13 Menu.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\refint\13 Menu.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\13 Menu.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\13 Menu\obj\Debug\net8.0-windows\ref\13 Menu.dll

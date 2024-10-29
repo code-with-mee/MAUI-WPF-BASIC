@@ -1,0 +1,20 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\bin\Debug\net8.0-windows\12 ListBox.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\bin\Debug\net8.0-windows\12 ListBox.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\bin\Debug\net8.0-windows\12 ListBox.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\bin\Debug\net8.0-windows\12 ListBox.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\bin\Debug\net8.0-windows\12 ListBox.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\refint\12 ListBox.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\12 ListBox.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\12 ListBox\obj\Debug\net8.0-windows\ref\12 ListBox.dll

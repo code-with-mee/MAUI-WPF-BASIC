@@ -1,0 +1,20 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\bin\Debug\net8.0-windows\8 DatePicker.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\bin\Debug\net8.0-windows\8 DatePicker.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\bin\Debug\net8.0-windows\8 DatePicker.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\bin\Debug\net8.0-windows\8 DatePicker.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\bin\Debug\net8.0-windows\8 DatePicker.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\refint\8 DatePicker.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\8 DatePicker.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\8 DatePicker\obj\Debug\net8.0-windows\ref\8 DatePicker.dll

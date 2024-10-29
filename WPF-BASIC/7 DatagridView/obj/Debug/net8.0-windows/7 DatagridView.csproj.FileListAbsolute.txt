@@ -1,0 +1,20 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\bin\Debug\net8.0-windows\7 DatagridView.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\bin\Debug\net8.0-windows\7 DatagridView.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\bin\Debug\net8.0-windows\7 DatagridView.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\bin\Debug\net8.0-windows\7 DatagridView.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\bin\Debug\net8.0-windows\7 DatagridView.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\refint\7 DatagridView.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\7 DatagridView.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\7 DatagridView\obj\Debug\net8.0-windows\ref\7 DatagridView.dll

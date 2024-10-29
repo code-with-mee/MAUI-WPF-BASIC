@@ -1,0 +1,20 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\bin\Debug\net8.0-windows\5 Combobox.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\bin\Debug\net8.0-windows\5 Combobox.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\bin\Debug\net8.0-windows\5 Combobox.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\bin\Debug\net8.0-windows\5 Combobox.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\bin\Debug\net8.0-windows\5 Combobox.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\refint\5 Combobox.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\5 Combobox.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\WPF-BASIC\5 Combobox\obj\Debug\net8.0-windows\ref\5 Combobox.dll
