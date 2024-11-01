@@ -23,21 +23,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9 ListView", "..\9 ListView
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 Image", "..\10 Image\10 Image.csproj", "{EE67CACA-68A9-4CDA-9C04-A13E16C06715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 Label", "..\11 Label\11 Label.csproj", "{EA216E9E-3BA0-4E41-80A1-2FFE76C65BB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 Label", "..\11 Label\11 Label.csproj", "{EA216E9E-3BA0-4E41-80A1-2FFE76C65BB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 ListBox", "..\12 ListBox\12 ListBox.csproj", "{406AB2EB-6F6F-4041-AE6F-16F209FBE88B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 ListBox", "..\12 ListBox\12 ListBox.csproj", "{406AB2EB-6F6F-4041-AE6F-16F209FBE88B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 Menu", "..\13 Menu\13 Menu.csproj", "{9EEBD4CF-F6F7-4361-9641-5EAF2FD9F6DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 Menu", "..\13 Menu\13 Menu.csproj", "{9EEBD4CF-F6F7-4361-9641-5EAF2FD9F6DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 PasswordBox", "..\14 PasswordBox\14 PasswordBox.csproj", "{3EC9C982-1320-443D-9FA6-58930C4675A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14 PasswordBox", "..\14 PasswordBox\14 PasswordBox.csproj", "{3EC9C982-1320-443D-9FA6-58930C4675A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 ProgressBar", "..\15 ProgressBar\15 ProgressBar.csproj", "{E13B880E-0C42-44E0-A965-69675B16F0C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15 ProgressBar", "..\15 ProgressBar\15 ProgressBar.csproj", "{E13B880E-0C42-44E0-A965-69675B16F0C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 RadioButton", "..\16 RadioButton\16 RadioButton.csproj", "{07D4C147-41E9-4F5A-B7BD-9A57B3BCE26D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16 RadioButton", "..\16 RadioButton\16 RadioButton.csproj", "{07D4C147-41E9-4F5A-B7BD-9A57B3BCE26D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 Slider", "..\17 Slider\17 Slider.csproj", "{70613A09-45E6-4DBE-8999-568A9F3898B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17 Slider", "..\17 Slider\17 Slider.csproj", "{70613A09-45E6-4DBE-8999-568A9F3898B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 TextBlock", "..\18 TextBlock\18 TextBlock.csproj", "{B6682F56-0FE7-479D-931D-43D4C41989E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18 TextBlock", "..\18 TextBlock\18 TextBlock.csproj", "{B6682F56-0FE7-479D-931D-43D4C41989E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 Toggle", "..\19 Toggle\19 Toggle.csproj", "{30585C35-B72A-40D4-A830-40CC26D6C287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 ToolTip", "..\20 ToolTip\20 ToolTip.csproj", "{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 StackLayout", "..\21 StackLayout\21 StackLayout.csproj", "{64E89CBF-F67C-4263-AA0A-656D5EE12DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 WrapPanel", "..\22 WrapPanel\22 WrapPanel.csproj", "{855BF033-C63E-4806-BE2F-4AEA69C2030B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +125,22 @@ Global
 		{B6682F56-0FE7-479D-931D-43D4C41989E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6682F56-0FE7-479D-931D-43D4C41989E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6682F56-0FE7-479D-931D-43D4C41989E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30585C35-B72A-40D4-A830-40CC26D6C287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30585C35-B72A-40D4-A830-40CC26D6C287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30585C35-B72A-40D4-A830-40CC26D6C287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30585C35-B72A-40D4-A830-40CC26D6C287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E89CBF-F67C-4263-AA0A-656D5EE12DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E89CBF-F67C-4263-AA0A-656D5EE12DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E89CBF-F67C-4263-AA0A-656D5EE12DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E89CBF-F67C-4263-AA0A-656D5EE12DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855BF033-C63E-4806-BE2F-4AEA69C2030B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855BF033-C63E-4806-BE2F-4AEA69C2030B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855BF033-C63E-4806-BE2F-4AEA69C2030B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855BF033-C63E-4806-BE2F-4AEA69C2030B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

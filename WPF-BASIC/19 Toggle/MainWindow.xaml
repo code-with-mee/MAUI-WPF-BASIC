@@ -1,0 +1,20 @@
+﻿<Window x:Class="_19_Toggle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_19_Toggle"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ToggleButton Name="tgl"
+                      Content="Off"
+                      HorizontalAlignment="Center"
+                      VerticalAlignment="Center"
+                      Width="100"
+                      Height="30"
+                      Checked="tgl_Checked"
+                      Unchecked="tgl_Unchecked"
+                      />
+    </Grid>
+</Window>

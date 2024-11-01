@@ -1,0 +1,21 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\bin\Debug\net8.0-windows\21 StackLayout.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\bin\Debug\net8.0-windows\21 StackLayout.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\bin\Debug\net8.0-windows\21 StackLayout.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\bin\Debug\net8.0-windows\21 StackLayout.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\bin\Debug\net8.0-windows\21 StackLayout.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.sourcelink.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\refint\21 StackLayout.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\21 StackLayout.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\21 StackLayout\obj\Debug\net8.0-windows\ref\21 StackLayout.dll

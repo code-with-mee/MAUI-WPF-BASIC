@@ -1,0 +1,21 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\bin\Debug\net8.0-windows\19 Toggle.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\bin\Debug\net8.0-windows\19 Toggle.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\bin\Debug\net8.0-windows\19 Toggle.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\bin\Debug\net8.0-windows\19 Toggle.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\bin\Debug\net8.0-windows\19 Toggle.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.sourcelink.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\refint\19 Toggle.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\19 Toggle.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\19 Toggle\obj\Debug\net8.0-windows\ref\19 Toggle.dll
