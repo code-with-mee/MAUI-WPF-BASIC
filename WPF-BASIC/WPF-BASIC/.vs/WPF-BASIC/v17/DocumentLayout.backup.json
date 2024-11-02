@@ -3,34 +3,13 @@
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\WPF-BASIC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{855BF033-C63E-4806-BE2F-4AEA69C2030B}|..\\22 WrapPanel\\22 WrapPanel.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\22 wrappanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}|..\\27 Databinding\\27 Databinding.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\27 databinding\\studentlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{855BF033-C63E-4806-BE2F-4AEA69C2030B}|..\\22 WrapPanel\\22 WrapPanel.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\22 wrappanel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}|..\\27 Databinding\\27 Databinding.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\27 databinding\\studentlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64E89CBF-F67C-4263-AA0A-656D5EE12DED}|..\\21 StackLayout\\21 StackLayout.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\21 stacklayout\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E89CBF-F67C-4263-AA0A-656D5EE12DED}|..\\21 StackLayout\\21 StackLayout.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\21 stacklayout\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}|..\\20 ToolTip\\20 ToolTip.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\20 tooltip\\20 tooltip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}|..\\20 ToolTip\\20 ToolTip.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\20 tooltip\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}|..\\20 ToolTip\\20 ToolTip.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\20 tooltip\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30585C35-B72A-40D4-A830-40CC26D6C287}|..\\19 Toggle\\19 Toggle.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\19 toggle\\19 toggle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30585C35-B72A-40D4-A830-40CC26D6C287}|..\\19 Toggle\\19 Toggle.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\19 toggle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30585C35-B72A-40D4-A830-40CC26D6C287}|..\\19 Toggle\\19 Toggle.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\19 toggle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}|..\\27 Databinding\\27 Databinding.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\27 databinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,127 +24,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\22 WrapPanel\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\22 WrapPanel\\MainWindow.xaml",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\22 WrapPanel\\MainWindow.xaml",
-              "RelativeToolTip": "..\\22 WrapPanel\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-01T00:13:37.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\22 WrapPanel\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\22 WrapPanel\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\22 WrapPanel\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\22 WrapPanel\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StudentList.xaml.cs",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\27 Databinding\\StudentList.xaml.cs",
+              "RelativeDocumentMoniker": "..\\27 Databinding\\StudentList.xaml.cs",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\27 Databinding\\StudentList.xaml.cs",
+              "RelativeToolTip": "..\\27 Databinding\\StudentList.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wCoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:13:37.032Z",
+              "WhenOpened": "2024-11-02T07:02:41.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\21 StackLayout\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\21 StackLayout\\MainWindow.xaml",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\21 StackLayout\\MainWindow.xaml",
-              "RelativeToolTip": "..\\21 StackLayout\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-01T00:08:18.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\21 StackLayout\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\21 StackLayout\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\21 StackLayout\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\21 StackLayout\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\27 Databinding\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\27 Databinding\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\27 Databinding\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\27 Databinding\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwD8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T00:08:18.385Z",
+              "WhenOpened": "2024-11-02T06:58:00.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20 ToolTip",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\20 ToolTip\\20 ToolTip.csproj",
-              "RelativeDocumentMoniker": "..\\20 ToolTip\\20 ToolTip.csproj",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\20 ToolTip\\20 ToolTip.csproj",
-              "RelativeToolTip": "..\\20 ToolTip\\20 ToolTip.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-01T00:03:15.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\20 ToolTip\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\20 ToolTip\\MainWindow.xaml",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\20 ToolTip\\MainWindow.xaml",
-              "RelativeToolTip": "..\\20 ToolTip\\MainWindow.xaml",
+              "DocumentIndex": 1,
+              "Title": "StudentList.xaml",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\27 Databinding\\StudentList.xaml",
+              "RelativeDocumentMoniker": "..\\27 Databinding\\StudentList.xaml",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\27 Databinding\\StudentList.xaml",
+              "RelativeToolTip": "..\\27 Databinding\\StudentList.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T23:49:16.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\20 ToolTip\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\20 ToolTip\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\20 ToolTip\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\20 ToolTip\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAywCAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T23:49:15.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "19 Toggle",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\19 Toggle\\19 Toggle.csproj",
-              "RelativeDocumentMoniker": "..\\19 Toggle\\19 Toggle.csproj",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\19 Toggle\\19 Toggle.csproj",
-              "RelativeToolTip": "..\\19 Toggle\\19 Toggle.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T23:48:57.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\19 Toggle\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\19 Toggle\\MainWindow.xaml",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\19 Toggle\\MainWindow.xaml",
-              "RelativeToolTip": "..\\19 Toggle\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T23:42:16.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\19 Toggle\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\19 Toggle\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\19 Toggle\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\19 Toggle\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAywB8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T23:42:15.384Z",
+              "WhenOpened": "2024-11-02T06:54:03.266Z",
               "EditorCaption": ""
             }
           ]

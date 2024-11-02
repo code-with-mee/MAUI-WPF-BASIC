@@ -1,0 +1,29 @@
+﻿<Window x:Class="_27_Databinding.StudentList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_27_Databinding"
+        mc:Ignorable="d"
+        Title="StudentList" Height="450" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="dgv"
+                  AlternatingRowBackground="Azure"
+                  AlternationCount="2"
+                  AutoGenerateColumns="False" Grid.ColumnSpan="2"
+                  CanUserAddRows="False"
+                  MouseDoubleClick="dgv_MouseDoubleClick"
+                  
+                  >
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="0.2*"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="0.4*"/>
+                <DataGridTextColumn Header="Phone" Binding="{Binding Phone}" Width="0.4*"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding Address}" Width="*" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

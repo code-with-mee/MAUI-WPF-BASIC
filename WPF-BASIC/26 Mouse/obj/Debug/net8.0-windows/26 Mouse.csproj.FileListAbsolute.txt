@@ -1,0 +1,21 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\bin\Debug\net8.0-windows\26 Mouse.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\bin\Debug\net8.0-windows\26 Mouse.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\bin\Debug\net8.0-windows\26 Mouse.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\bin\Debug\net8.0-windows\26 Mouse.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\bin\Debug\net8.0-windows\26 Mouse.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.sourcelink.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\refint\26 Mouse.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\26 Mouse.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\26 Mouse\obj\Debug\net8.0-windows\ref\26 Mouse.dll

@@ -1,0 +1,21 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\bin\Debug\net8.0-windows\23 DockPanel.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\bin\Debug\net8.0-windows\23 DockPanel.deps.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\bin\Debug\net8.0-windows\23 DockPanel.runtimeconfig.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\bin\Debug\net8.0-windows\23 DockPanel.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\bin\Debug\net8.0-windows\23 DockPanel.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.AssemblyInfoInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.AssemblyInfo.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.sourcelink.json
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\refint\23 DockPanel.dll
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\23 DockPanel.genruntimeconfig.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\WPF-BASIC\23 DockPanel\obj\Debug\net8.0-windows\ref\23 DockPanel.dll

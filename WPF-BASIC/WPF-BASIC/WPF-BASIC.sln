@@ -39,13 +39,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17 Slider", "..\17 Slider\1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18 TextBlock", "..\18 TextBlock\18 TextBlock.csproj", "{B6682F56-0FE7-479D-931D-43D4C41989E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 Toggle", "..\19 Toggle\19 Toggle.csproj", "{30585C35-B72A-40D4-A830-40CC26D6C287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19 Toggle", "..\19 Toggle\19 Toggle.csproj", "{30585C35-B72A-40D4-A830-40CC26D6C287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 ToolTip", "..\20 ToolTip\20 ToolTip.csproj", "{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 ToolTip", "..\20 ToolTip\20 ToolTip.csproj", "{15D66CAB-DF9B-4CFC-9E13-95C1E0D07486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 StackLayout", "..\21 StackLayout\21 StackLayout.csproj", "{64E89CBF-F67C-4263-AA0A-656D5EE12DED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21 StackLayout", "..\21 StackLayout\21 StackLayout.csproj", "{64E89CBF-F67C-4263-AA0A-656D5EE12DED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 WrapPanel", "..\22 WrapPanel\22 WrapPanel.csproj", "{855BF033-C63E-4806-BE2F-4AEA69C2030B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22 WrapPanel", "..\22 WrapPanel\22 WrapPanel.csproj", "{855BF033-C63E-4806-BE2F-4AEA69C2030B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23 DockPanel", "..\23 DockPanel\23 DockPanel.csproj", "{22F48A0C-CA25-4DFD-A26B-11B84D6EAC7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 Canvas", "..\24 Canvas\24 Canvas.csproj", "{E42A6BD2-FF8B-46ED-A6DA-040A9CC0CFC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25 GridPanel", "..\25 GridPanel\25 GridPanel.csproj", "{8D1EEC83-58E6-49EA-8D53-BB81CC13DEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 Mouse", "..\26 Mouse\26 Mouse.csproj", "{A55E5C35-AEAC-4147-AF6F-66595FB4F45C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 Databinding", "..\27 Databinding\27 Databinding.csproj", "{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +151,26 @@ Global
 		{855BF033-C63E-4806-BE2F-4AEA69C2030B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{855BF033-C63E-4806-BE2F-4AEA69C2030B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{855BF033-C63E-4806-BE2F-4AEA69C2030B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F48A0C-CA25-4DFD-A26B-11B84D6EAC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F48A0C-CA25-4DFD-A26B-11B84D6EAC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F48A0C-CA25-4DFD-A26B-11B84D6EAC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F48A0C-CA25-4DFD-A26B-11B84D6EAC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42A6BD2-FF8B-46ED-A6DA-040A9CC0CFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42A6BD2-FF8B-46ED-A6DA-040A9CC0CFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42A6BD2-FF8B-46ED-A6DA-040A9CC0CFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42A6BD2-FF8B-46ED-A6DA-040A9CC0CFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1EEC83-58E6-49EA-8D53-BB81CC13DEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1EEC83-58E6-49EA-8D53-BB81CC13DEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1EEC83-58E6-49EA-8D53-BB81CC13DEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1EEC83-58E6-49EA-8D53-BB81CC13DEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55E5C35-AEAC-4147-AF6F-66595FB4F45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55E5C35-AEAC-4147-AF6F-66595FB4F45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55E5C35-AEAC-4147-AF6F-66595FB4F45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55E5C35-AEAC-4147-AF6F-66595FB4F45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
