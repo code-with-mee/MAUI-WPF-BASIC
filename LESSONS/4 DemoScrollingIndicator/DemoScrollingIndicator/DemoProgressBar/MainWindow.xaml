@@ -1,0 +1,14 @@
+﻿<Window x:Class="DemoProgressBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoProgressBar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <ProgressBar Name="pgBar" Width="300" Height="20" Minimum="0" Maximum="100"/>
+        <TextBlock Name="tbProgress" Text="" HorizontalAlignment="Center" />
+    </StackPanel>
+
+</Window>

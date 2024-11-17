@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\bin\Debug\DemoList.exe.config
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\bin\Debug\DemoList.exe
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\bin\Debug\DemoList.pdb
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList.g.resources
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList.exe
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoList\obj\Debug\DemoList.pdb

@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\bin\Debug\DemoStatusBar.exe.config
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\bin\Debug\DemoStatusBar.exe
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\bin\Debug\DemoStatusBar.pdb
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar.g.resources
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar.exe
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoStatusBar\obj\Debug\DemoStatusBar.pdb

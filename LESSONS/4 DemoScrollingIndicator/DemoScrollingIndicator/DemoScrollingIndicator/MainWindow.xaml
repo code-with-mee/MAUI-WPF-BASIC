@@ -1,0 +1,34 @@
+﻿<Window x:Class="DemoScrollingIndicator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoScrollingIndicator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="300">
+    <Grid>
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Visible">
+            <StackPanel>
+                <TextBlock Text="Item1" FontSize="20" />
+                <TextBlock Text="Item2" FontSize="20"/>
+                <TextBlock Text="Item3" FontSize="20"/>
+                <TextBlock Text="Item4" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+                <TextBlock Text="Item5" FontSize="20"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

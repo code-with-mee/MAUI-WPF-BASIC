@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\bin\Debug\DemoDateAndTime.exe.config
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\bin\Debug\DemoDateAndTime.exe
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\bin\Debug\DemoDateAndTime.pdb
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime.g.resources
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime.exe
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\DemoDateAndTime\obj\Debug\DemoDateAndTime.pdb

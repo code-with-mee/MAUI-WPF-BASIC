@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\bin\Debug\DemoProgressBar.exe.config
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\bin\Debug\DemoProgressBar.exe
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\bin\Debug\DemoProgressBar.pdb
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar.g.resources
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar.exe
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoProgressBar\obj\Debug\DemoProgressBar.pdb

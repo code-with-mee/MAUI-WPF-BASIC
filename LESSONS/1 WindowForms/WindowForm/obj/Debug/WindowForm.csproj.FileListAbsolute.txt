@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\bin\Debug\WindowForm.exe.config
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\bin\Debug\WindowForm.exe
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\bin\Debug\WindowForm.pdb
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm.g.resources
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm.exe
+C:\Users\ratan\Desktop\WindowForm\1 WindowForms\WindowForm\obj\Debug\WindowForm.pdb

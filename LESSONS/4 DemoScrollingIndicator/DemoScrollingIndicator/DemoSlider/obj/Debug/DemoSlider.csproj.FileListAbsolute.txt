@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\bin\Debug\DemoSlider.exe.config
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\bin\Debug\DemoSlider.exe
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\bin\Debug\DemoSlider.pdb
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider.g.resources
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider.exe
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoSlider\obj\Debug\DemoSlider.pdb

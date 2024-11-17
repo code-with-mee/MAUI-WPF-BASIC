@@ -1,0 +1,20 @@
+﻿<Window x:Class="DemoButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Button Content="Button" FontSize="20" Width="auto"  Margin="0,0,0,10"/>
+        
+        <RadioButton Content="Male" FontSize="20" GroupName="gender" Width="auto"/>
+        <RadioButton Content="Female" FontSize="20" GroupName="gender" Width="auto" Margin="0,0,0,10"/>
+
+        <CheckBox Content="Read" FontSize="20" Width="auto"/>
+        <CheckBox Content="Insert" FontSize="20" Width="auto"/>
+        <CheckBox Content="Delete" FontSize="20" Width="auto"/>
+        <CheckBox Content="Update" FontSize="20" Width="auto"/>
+    </StackPanel>
+</Window>

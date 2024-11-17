@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\bin\Debug\DemoGridView.exe.config
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\bin\Debug\DemoGridView.exe
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\bin\Debug\DemoGridView.pdb
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoDataGrid.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoGridView_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoGridView_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoGridView.g.resources
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoGridView.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoDataGrid.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoGridView.exe
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoGridView\obj\Debug\DemoGridView.pdb

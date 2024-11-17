@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\bin\Debug\DemoCalendar.exe.config
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\bin\Debug\DemoCalendar.exe
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\bin\Debug\DemoCalendar.pdb
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar.g.resources
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar.exe
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoCalendar\obj\Debug\DemoCalendar.pdb

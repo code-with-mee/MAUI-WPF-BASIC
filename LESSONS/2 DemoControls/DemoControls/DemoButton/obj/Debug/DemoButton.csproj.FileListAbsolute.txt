@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\bin\Debug\DemoButton.exe.config
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\bin\Debug\DemoButton.exe
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\bin\Debug\DemoButton.pdb
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton.g.resources
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton.exe
+C:\Users\ratan\Desktop\WindowForm\2 DemoControls\DemoControls\DemoButton\obj\Debug\DemoButton.pdb

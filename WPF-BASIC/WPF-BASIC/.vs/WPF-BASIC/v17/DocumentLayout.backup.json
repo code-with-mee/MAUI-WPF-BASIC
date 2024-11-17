@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\WPF-BASIC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}|..\\28 Custom Control\\28 Custom Control.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\28 custom control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}|..\\28 Custom Control\\28 Custom Control.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\28 custom control\\mytextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}|..\\28 Custom Control\\28 Custom Control.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\28 custom control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}|..\\28 Custom Control\\28 Custom Control.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\wpf-basic\\28 custom control\\mytextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,26 +21,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\28 Custom Control\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\28 Custom Control\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\28 Custom Control\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\28 Custom Control\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Title": "MyTextBox.xaml.cs",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\28 Custom Control\\MyTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "..\\28 Custom Control\\MyTextBox.xaml.cs",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\28 Custom Control\\MyTextBox.xaml.cs",
+              "RelativeToolTip": "..\\28 Custom Control\\MyTextBox.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T01:01:26.26Z",
+              "WhenOpened": "2024-11-17T01:11:14.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\28 Custom Control\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\28 Custom Control\\MainWindow.xaml",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\28 Custom Control\\MainWindow.xaml",
-              "RelativeToolTip": "..\\28 Custom Control\\MainWindow.xaml",
+              "Title": "MyTextBox.xaml",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\28 Custom Control\\MyTextBox.xaml",
+              "RelativeDocumentMoniker": "..\\28 Custom Control\\MyTextBox.xaml",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\WPF-BASIC\\28 Custom Control\\MyTextBox.xaml",
+              "RelativeToolTip": "..\\28 Custom Control\\MyTextBox.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-16T23:53:53.7Z",
+              "WhenOpened": "2024-11-17T01:11:12.626Z",
               "EditorCaption": ""
             }
           ]

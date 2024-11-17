@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\bin\Debug\DemoDataTemplate.exe.config
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\bin\Debug\DemoDataTemplate.exe
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\bin\Debug\DemoDataTemplate.pdb
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate.g.resources
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate.exe
+C:\Users\ratan\Desktop\WindowForm\3 DemoList\DemoList\DemoDataTemplate\obj\Debug\DemoDataTemplate.pdb

@@ -1,0 +1,15 @@
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\bin\Debug\DemoScrollingIndicator.exe.config
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\bin\Debug\DemoScrollingIndicator.exe
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\bin\Debug\DemoScrollingIndicator.pdb
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\MainWindow.g.cs
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\App.g.cs
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator_MarkupCompile.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator_MarkupCompile.lref
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\MainWindow.baml
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator.g.resources
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator.Properties.Resources.resources
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator.csproj.GenerateResource.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator.exe
+C:\Users\ratan\Desktop\WindowForm\4 DemoScrollingIndicator\DemoScrollingIndicator\DemoScrollingIndicator\obj\Debug\DemoScrollingIndicator.pdb

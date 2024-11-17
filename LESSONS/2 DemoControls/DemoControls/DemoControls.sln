@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoControls", "DemoControls\DemoControls.csproj", "{5CFEA243-1B2B-4671-B659-567D964DCDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoButton", "DemoButton\DemoButton.csproj", "{79F57B8D-C8DA-433C-AD8C-80C9191739FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDateTimePicker", "DemoDateTimePicker\DemoDateTimePicker.csproj", "{DF9CCE2A-12A3-4C9E-BD35-91A17D6D4A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCalendar", "DemoCalendar\DemoCalendar.csproj", "{69B9C851-CEDC-4980-B441-E53F801569FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CFEA243-1B2B-4671-B659-567D964DCDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFEA243-1B2B-4671-B659-567D964DCDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFEA243-1B2B-4671-B659-567D964DCDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFEA243-1B2B-4671-B659-567D964DCDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F57B8D-C8DA-433C-AD8C-80C9191739FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F57B8D-C8DA-433C-AD8C-80C9191739FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F57B8D-C8DA-433C-AD8C-80C9191739FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F57B8D-C8DA-433C-AD8C-80C9191739FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9CCE2A-12A3-4C9E-BD35-91A17D6D4A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9CCE2A-12A3-4C9E-BD35-91A17D6D4A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9CCE2A-12A3-4C9E-BD35-91A17D6D4A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9CCE2A-12A3-4C9E-BD35-91A17D6D4A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B9C851-CEDC-4980-B441-E53F801569FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B9C851-CEDC-4980-B441-E53F801569FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B9C851-CEDC-4980-B441-E53F801569FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B9C851-CEDC-4980-B441-E53F801569FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D7C2688-285B-41F0-AFD3-74ABF7D3ECB6}
+	EndGlobalSection
+EndGlobal
