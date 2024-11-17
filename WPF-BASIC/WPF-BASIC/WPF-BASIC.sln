@@ -47,15 +47,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21 StackLayout", "..\21 Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22 WrapPanel", "..\22 WrapPanel\22 WrapPanel.csproj", "{855BF033-C63E-4806-BE2F-4AEA69C2030B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23 DockPanel", "..\23 DockPanel\23 DockPanel.csproj", "{22F48A0C-CA25-4DFD-A26B-11B84D6EAC7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23 DockPanel", "..\23 DockPanel\23 DockPanel.csproj", "{22F48A0C-CA25-4DFD-A26B-11B84D6EAC7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 Canvas", "..\24 Canvas\24 Canvas.csproj", "{E42A6BD2-FF8B-46ED-A6DA-040A9CC0CFC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24 Canvas", "..\24 Canvas\24 Canvas.csproj", "{E42A6BD2-FF8B-46ED-A6DA-040A9CC0CFC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25 GridPanel", "..\25 GridPanel\25 GridPanel.csproj", "{8D1EEC83-58E6-49EA-8D53-BB81CC13DEBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25 GridPanel", "..\25 GridPanel\25 GridPanel.csproj", "{8D1EEC83-58E6-49EA-8D53-BB81CC13DEBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 Mouse", "..\26 Mouse\26 Mouse.csproj", "{A55E5C35-AEAC-4147-AF6F-66595FB4F45C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26 Mouse", "..\26 Mouse\26 Mouse.csproj", "{A55E5C35-AEAC-4147-AF6F-66595FB4F45C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 Databinding", "..\27 Databinding\27 Databinding.csproj", "{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27 Databinding", "..\27 Databinding\27 Databinding.csproj", "{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 Custom Control", "..\28 Custom Control\28 Custom Control.csproj", "{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EFEF4B0-59E9-4C88-9707-9AC671411D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677746FF-A6C9-4E73-8F18-BAAB86DE3AF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
