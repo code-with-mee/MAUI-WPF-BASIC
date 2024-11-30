@@ -1,12 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ratan\\Desktop\\WindowForm\\1 WindowForms\\WindowForm\\",
+  "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\1 WindowForms\\WindowForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{089B45E9-2053-4697-A175-D27D541DFA3D}|..\\DemoDateAndTime\\DemoDateAndTime.csproj|c:\\users\\ratan\\desktop\\windowform\\1 windowforms\\demodateandtime\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ratan\\Desktop\\WindowForm\\1 WindowForms\\DemoDateAndTime\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{089B45E9-2053-4697-A175-D27D541DFA3D}|..\\DemoDateAndTime\\DemoDateAndTime.csproj|c:\\users\\ratan\\desktop\\windowform\\1 windowforms\\demodateandtime\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ratan\\Desktop\\WindowForm\\1 WindowForms\\DemoDateAndTime\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,9 +23,7 @@
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ratan\\Desktop\\WindowForm\\1 WindowForms\\DemoDateAndTime\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\DemoDateAndTime\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\ratan\\Desktop\\WindowForm\\1 WindowForms\\DemoDateAndTime\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\DemoDateAndTime\\MainWindow.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T03:02:13.471Z",
@@ -36,12 +34,9 @@
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ratan\\Desktop\\WindowForm\\1 WindowForms\\DemoDateAndTime\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\DemoDateAndTime\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\ratan\\Desktop\\WindowForm\\1 WindowForms\\DemoDateAndTime\\MainWindow.xaml",
-              "RelativeToolTip": "..\\DemoDateAndTime\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T03:02:11.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T03:02:11.37Z"
             }
           ]
         }
