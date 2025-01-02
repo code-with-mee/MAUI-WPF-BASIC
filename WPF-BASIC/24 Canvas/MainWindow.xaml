@@ -6,13 +6,11 @@
         xmlns:local="clr-namespace:_24_Canvas"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Canvas Width="400" Height="400" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <Canvas Width="400" Height="400" HorizontalAlignment="Center" VerticalAlignment="Center">
             <Button Content="1" FontSize="30" Canvas.Top="30" Canvas.Left="30" Width="100" Height="100"/>
             <Button Content="2" FontSize="30" Canvas.Top="30" Canvas.Right="30" Width="100" Height="100"/>
             <Button Content="3" FontSize="30" Canvas.Bottom="30" Canvas.Left="30" Width="100" Height="100"/>
             <Button Content="4" FontSize="30" Canvas.Bottom="30" Canvas.Right="30" Width="100" Height="100"/>
             <Button Content="5" FontSize="30" Width="100" Height="100" Canvas.Top="150" Canvas.Left="150"/>
         </Canvas>
-    </Grid>
 </Window>

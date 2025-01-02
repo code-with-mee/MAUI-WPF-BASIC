@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\5 DemoAdditionalForms\\DemoAdditionalForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39A81E4D-1763-46B6-A2E8-476101303B83}|DemoAdditionalForms.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\lessons\\5 demoadditionalforms\\demoadditionalforms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{39A81E4D-1763-46B6-A2E8-476101303B83}|DemoAdditionalForms.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6F793A12-2C89-4B48-8E18-0D82AEC029BA}|..\\DemoFolderDialog\\DemoFolderDialog.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\lessons\\5 demoadditionalforms\\demofolderdialog\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F793A12-2C89-4B48-8E18-0D82AEC029BA}|..\\DemoFolderDialog\\DemoFolderDialog.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\lessons\\5 demoadditionalforms\\demofolderdialog\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,19 +15,38 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 166,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\5 DemoAdditionalForms\\DemoAdditionalForms\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\5 DemoAdditionalForms\\DemoAdditionalForms\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\5 DemoAdditionalForms\\DemoFolderDialog\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\DemoFolderDialog\\MainWindow.xaml",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\5 DemoAdditionalForms\\DemoFolderDialog\\MainWindow.xaml",
+              "RelativeToolTip": "..\\DemoFolderDialog\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-30T03:43:57.703Z",
+              "WhenOpened": "2024-12-17T15:54:39.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\5 DemoAdditionalForms\\DemoFolderDialog\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\DemoFolderDialog\\MainWindow.xaml",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\5 DemoAdditionalForms\\DemoFolderDialog\\MainWindow.xaml",
+              "RelativeToolTip": "..\\DemoFolderDialog\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T15:54:43.318Z",
               "EditorCaption": ""
             }
           ]

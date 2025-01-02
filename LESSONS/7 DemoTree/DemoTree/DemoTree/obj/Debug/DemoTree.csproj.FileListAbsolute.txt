@@ -1,0 +1,15 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree.csproj.AssemblyReference.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\bin\Debug\DemoTree.exe.config
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\bin\Debug\DemoTree.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\bin\Debug\DemoTree.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree.Properties.Resources.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree.csproj.GenerateResource.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoTree\obj\Debug\DemoTree.pdb

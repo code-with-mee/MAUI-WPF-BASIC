@@ -1,0 +1,15 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\bin\Debug\DemoExplorer.exe.config
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\bin\Debug\DemoExplorer.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\bin\Debug\DemoExplorer.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer.csproj.AssemblyReference.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer.Properties.Resources.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer.csproj.GenerateResource.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\7 DemoTree\DemoTree\DemoExplorer\obj\Debug\DemoExplorer.pdb

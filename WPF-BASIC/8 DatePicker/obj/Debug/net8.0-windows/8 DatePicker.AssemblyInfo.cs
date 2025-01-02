@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8 DatePicker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3b0c53a3173134bb639a02deda75f6d8da0b3a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe6dd6474a11afb9252ab439c701496edc8c49c")]
 [assembly: System.Reflection.AssemblyProductAttribute("8 DatePicker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8 DatePicker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

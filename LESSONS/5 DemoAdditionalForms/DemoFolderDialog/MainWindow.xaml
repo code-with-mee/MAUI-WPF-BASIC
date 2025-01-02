@@ -1,0 +1,30 @@
+﻿<Window x:Class="DemoFolderDialog.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoFolderDialog"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".15*"/>
+            <RowDefinition Height=".1*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.2*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="0.3*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Path : " FontSize="25" Grid.Column="0"/>
+            <TextBox Name="txtBrowse" FontSize="25" Grid.Column="1"/>
+            <Button Content="Browse" FontSize="25" Name="btnBrowse" Grid.Column="2" Click="btnBrowse_Click" Margin="5,0,0,0"/>
+        </Grid>
+
+        <ListBox Name="lb" FontSize="25" Grid.Row="2"/>
+    </Grid>
+</Window>

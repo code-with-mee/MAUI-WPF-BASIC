@@ -6,13 +6,10 @@
         xmlns:local="clr-namespace:_21_StackLayout"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel>
         <StackPanel Orientation="Vertical" 
                     HorizontalAlignment="Center" 
                     VerticalAlignment="Center">
-            <Button Content="Button" Margin="10" Width="100" Height="30"/>
-            <Button Content="Button" Margin="10" Width="100" Height="30"/>
-            <Button Content="Button" Margin="10" Width="100" Height="30"/>
             <Button Content="Button" Margin="10" Width="100" Height="30"/>
             <Button Content="Button" Margin="10" Width="100" Height="30"/>
         </StackPanel>
@@ -25,8 +22,7 @@
             <Button Content="Button" Margin="10" Width="100" Height="30"/>
             <Button Content="Button" Margin="10" Width="100" Height="30"/>
             <Button Content="Button" Margin="10" Width="100" Height="30"/>
-            <Button Content="Button" Margin="10" Width="100" Height="30"/>
-            <Button Content="Button" Margin="10" Width="100" Height="30"/>
         </StackPanel>
-    </Grid>
+    </StackPanel>
+
 </Window>

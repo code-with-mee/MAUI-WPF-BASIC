@@ -6,13 +6,11 @@
         xmlns:local="clr-namespace:_23_DockPanel"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <DockPanel>
+    <DockPanel>
             <Button Content="Top" DockPanel.Dock="Top"/>
             <Button Content="Bottom" DockPanel.Dock="Bottom"/>
             <Button Content="Left" DockPanel.Dock="Left"/>
             <Button Content="Righ" DockPanel.Dock="Right"/>
             <Button Content="Center"/>
         </DockPanel>
-    </Grid>
 </Window>
