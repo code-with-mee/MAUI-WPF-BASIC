@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTree", "DemoTree\DemoTr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExplorer", "DemoExplorer\DemoExplorer.csproj", "{2CB2A538-CEDB-49B6-9F1B-611B497B282E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoListView", "DemoListView\DemoListView.csproj", "{BD68A61B-B684-42E4-A986-A4852FB97ED0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2CB2A538-CEDB-49B6-9F1B-611B497B282E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CB2A538-CEDB-49B6-9F1B-611B497B282E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CB2A538-CEDB-49B6-9F1B-611B497B282E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD68A61B-B684-42E4-A986-A4852FB97ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD68A61B-B684-42E4-A986-A4852FB97ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD68A61B-B684-42E4-A986-A4852FB97ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD68A61B-B684-42E4-A986-A4852FB97ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

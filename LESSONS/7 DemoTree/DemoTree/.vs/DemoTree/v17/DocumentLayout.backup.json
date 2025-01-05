@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\7 DemoTree\\DemoTree\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD68A61B-B684-42E4-A986-A4852FB97ED0}|DemoListView\\DemoListView.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\lessons\\7 demotree\\demotree\\demolistview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD68A61B-B684-42E4-A986-A4852FB97ED0}|DemoListView\\DemoListView.csproj|solutionrelative:demolistview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD68A61B-B684-42E4-A986-A4852FB97ED0}|DemoListView\\DemoListView.csproj|d:\\2 - it academy step\\github\\maui-wpf-basic\\maui-wpf-basic\\lessons\\7 demotree\\demotree\\demolistview\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD68A61B-B684-42E4-A986-A4852FB97ED0}|DemoListView\\DemoListView.csproj|solutionrelative:demolistview\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\7 DemoTree\\DemoTree\\DemoListView\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoListView\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\7 DemoTree\\DemoTree\\DemoListView\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoListView\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:19:38.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\7 DemoTree\\DemoTree\\DemoListView\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoListView\\MainWindow.xaml",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\MAUI-WPF-BASIC\\MAUI-WPF-BASIC\\LESSONS\\7 DemoTree\\DemoTree\\DemoListView\\MainWindow.xaml",
+              "RelativeToolTip": "DemoListView\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T15:06:07.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

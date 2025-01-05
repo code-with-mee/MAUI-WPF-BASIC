@@ -50,9 +50,8 @@ namespace DemoTree
             TreeViewItem selectedItem = (TreeViewItem)treeView.SelectedItem;
             if (selectedItem != null)
             {
-                MessageBox.Show(treeView.Items.IndexOf(selectedItem).ToString());
-                treeView.Items.RemoveAt(treeView.Items.IndexOf(treeView.SelectedItem));
-                //treeView.Items.Remove(selectedItem);
+                //treeView.Items.RemoveAt(treeView.Items.IndexOf(treeView.SelectedItem));
+                treeView.Items.Remove(selectedItem);
             }
         }
     }
