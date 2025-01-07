@@ -1,0 +1,15 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\bin\Debug\2-DemoPen.exe.config
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\bin\Debug\2-DemoPen.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\bin\Debug\2-DemoPen.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\2-DemoPen.csproj.AssemblyReference.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\2-DemoPen_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\2-DemoPen_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\2-DemoPen.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\_2_DemoPen.Properties.Resources.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\2-DemoPen.csproj.GenerateResource.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\2-DemoPen.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\2-DemoPen.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\2-DemoPen\obj\Debug\2-DemoPen.pdb

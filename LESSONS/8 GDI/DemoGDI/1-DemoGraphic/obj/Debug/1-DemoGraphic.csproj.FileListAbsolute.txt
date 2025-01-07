@@ -1,0 +1,15 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\bin\Debug\1-DemoGraphic.exe.config
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\bin\Debug\1-DemoGraphic.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\bin\Debug\1-DemoGraphic.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\1-DemoGraphic.csproj.AssemblyReference.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\MainWindow.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\App.g.cs
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\1-DemoGraphic_MarkupCompile.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\1-DemoGraphic_MarkupCompile.lref
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\MainWindow.baml
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\1-DemoGraphic.g.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\_1_DemoGraphic.Properties.Resources.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\1-DemoGraphic.csproj.GenerateResource.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\1-DemoGraphic.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\1-DemoGraphic.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\1-DemoGraphic\obj\Debug\1-DemoGraphic.pdb
