@@ -1,0 +1,10 @@
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\bin\Debug\BasicPaint.exe.config
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\bin\Debug\BasicPaint.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\bin\Debug\BasicPaint.pdb
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\obj\Debug\BasicPaint.csproj.AssemblyReference.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\obj\Debug\BasicPaint.Form1.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\obj\Debug\BasicPaint.Properties.Resources.resources
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\obj\Debug\BasicPaint.csproj.GenerateResource.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\obj\Debug\BasicPaint.csproj.CoreCompileInputs.cache
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\obj\Debug\BasicPaint.exe
+D:\2 - IT ACADEMY STEP\Github\MAUI-WPF-BASIC\MAUI-WPF-BASIC\LESSONS\8 GDI\DemoGDI\BasicPaint\obj\Debug\BasicPaint.pdb

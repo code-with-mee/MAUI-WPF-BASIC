@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoGDI", "DemoGDI\DemoGDI.csproj", "{26BD9FEA-5CBB-4019-9307-9F12F5319080}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-DemoBrush", "3-DemoBrush\3-DemoBrush.csproj", "{C6B3636B-0134-4B9F-8884-3F910850F224}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-DemoShape", "4-DemoShape\4-DemoShape.csproj", "{97366552-ECED-4E87-9FC8-AF34371F037A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicPaint", "BasicPaint\BasicPaint.csproj", "{19DD1A49-0AD3-4EE4-A64D-336B1C024789}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{97366552-ECED-4E87-9FC8-AF34371F037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97366552-ECED-4E87-9FC8-AF34371F037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97366552-ECED-4E87-9FC8-AF34371F037A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DD1A49-0AD3-4EE4-A64D-336B1C024789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DD1A49-0AD3-4EE4-A64D-336B1C024789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DD1A49-0AD3-4EE4-A64D-336B1C024789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DD1A49-0AD3-4EE4-A64D-336B1C024789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
